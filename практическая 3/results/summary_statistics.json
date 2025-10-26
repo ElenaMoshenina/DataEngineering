@@ -1,0 +1,38 @@
+{
+  "analysis_date": "2025-10-26 11:21:10",
+  "total_patients": 500,
+  "total_prescriptions": 1269,
+  "total_drugs": 20,
+  "total_diagnoses": 15,
+  "total_medication_cost": 510147.6,
+  "avg_cost_per_patient": 1011.8986666666667,
+  "most_expensive_diagnosis": "Гепатит",
+  "most_used_drug": "Левотироксин",
+  "top_diagnoses": {
+    "Гепатит": {
+      "total_cost": 74042.7,
+      "patient_count": 42,
+      "avg_cost_per_patient": 1762.92
+    },
+    "Диабет 2 типа": {
+      "total_cost": 47822.61,
+      "patient_count": 42,
+      "avg_cost_per_patient": 1138.63
+    },
+    "Цистит": {
+      "total_cost": 47068.37,
+      "patient_count": 35,
+      "avg_cost_per_patient": 1344.81
+    },
+    "Гастрит": {
+      "total_cost": 35891.5,
+      "patient_count": 38,
+      "avg_cost_per_patient": 944.51
+    },
+    "Аллергия": {
+      "total_cost": 35690.28,
+      "patient_count": 31,
+      "avg_cost_per_patient": 1151.3
+    }
+  }
+}

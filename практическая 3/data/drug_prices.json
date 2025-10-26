@@ -1,0 +1,142 @@
+[
+  {
+    "drug_name": "Диклофенак",
+    "price": 138.54,
+    "currency": "RUB",
+    "package_size": 50,
+    "manufacturer": "БиоФарм"
+  },
+  {
+    "drug_name": "Левотироксин",
+    "price": 1458.42,
+    "currency": "RUB",
+    "package_size": 30,
+    "manufacturer": "ФармЗавод"
+  },
+  {
+    "drug_name": "Омепразол",
+    "price": 237.22,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "Фармакор"
+  },
+  {
+    "drug_name": "Варфарин",
+    "price": 1082.71,
+    "currency": "RUB",
+    "package_size": 50,
+    "manufacturer": "БиоФарм"
+  },
+  {
+    "drug_name": "Амоксициллин",
+    "price": 155.31,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "БиоФарм"
+  },
+  {
+    "drug_name": "Азитромицин",
+    "price": 326.23,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "Фармакор"
+  },
+  {
+    "drug_name": "Инсулин",
+    "price": 1447.03,
+    "currency": "RUB",
+    "package_size": 50,
+    "manufacturer": "ФармЗавод"
+  },
+  {
+    "drug_name": "Аспирин",
+    "price": 145.91,
+    "currency": "RUB",
+    "package_size": 10,
+    "manufacturer": "Фармакор"
+  },
+  {
+    "drug_name": "Флуконазол",
+    "price": 214.88,
+    "currency": "RUB",
+    "package_size": 50,
+    "manufacturer": "БиоФарм"
+  },
+  {
+    "drug_name": "Симвастатин",
+    "price": 630.43,
+    "currency": "RUB",
+    "package_size": 10,
+    "manufacturer": "МедПродукт"
+  },
+  {
+    "drug_name": "Метопролол",
+    "price": 294.47,
+    "currency": "RUB",
+    "package_size": 100,
+    "manufacturer": "ФармЗавод"
+  },
+  {
+    "drug_name": "Метформин",
+    "price": 173.15,
+    "currency": "RUB",
+    "package_size": 100,
+    "manufacturer": "Лекарства РФ"
+  },
+  {
+    "drug_name": "Лозартан",
+    "price": 308.22,
+    "currency": "RUB",
+    "package_size": 50,
+    "manufacturer": "ФармЗавод"
+  },
+  {
+    "drug_name": "Амлодипин",
+    "price": 316.69,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "Фармакор"
+  },
+  {
+    "drug_name": "Цетиризин",
+    "price": 326.86,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "ФармЗавод"
+  },
+  {
+    "drug_name": "Сальбутамол",
+    "price": 190.23,
+    "currency": "RUB",
+    "package_size": 30,
+    "manufacturer": "БиоФарм"
+  },
+  {
+    "drug_name": "Парацетамол",
+    "price": 251.53,
+    "currency": "RUB",
+    "package_size": 10,
+    "manufacturer": "МедПродукт"
+  },
+  {
+    "drug_name": "Ибупрофен",
+    "price": 137.36,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "Лекарства РФ"
+  },
+  {
+    "drug_name": "Аторвастатин",
+    "price": 611.45,
+    "currency": "RUB",
+    "package_size": 30,
+    "manufacturer": "Фармакор"
+  },
+  {
+    "drug_name": "Кларитромицин",
+    "price": 217.43,
+    "currency": "RUB",
+    "package_size": 20,
+    "manufacturer": "БиоФарм"
+  }
+]
