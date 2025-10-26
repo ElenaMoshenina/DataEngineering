@@ -1,0 +1,22 @@
+[
+  {"app_id": 1, "uninstalls_count": 2000},
+  {"app_id": 2, "uninstalls_count": 1500},
+  {"app_id": 3, "uninstalls_count": 1600},
+  {"app_id": 4, "uninstalls_count": 600},
+  {"app_id": 5, "uninstalls_count": 2100},
+  {"app_id": 6, "uninstalls_count": 2400},
+  {"app_id": 7, "uninstalls_count": 400},
+  {"app_id": 8, "uninstalls_count": 800},
+  {"app_id": 9, "uninstalls_count": 1800},
+  {"app_id": 10, "uninstalls_count": 300},
+  {"app_id": 11, "uninstalls_count": 2200},
+  {"app_id": 12, "uninstalls_count": 1800},
+  {"app_id": 13, "uninstalls_count": 700},
+  {"app_id": 14, "uninstalls_count": 500},
+  {"app_id": 15, "uninstalls_count": 1900},
+  {"app_id": 16, "uninstalls_count": 1600},
+  {"app_id": 17, "uninstalls_count": 900},
+  {"app_id": 18, "uninstalls_count": 600},
+  {"app_id": 19, "uninstalls_count": 2100},
+  {"app_id": 20, "uninstalls_count": 1700}
+]
